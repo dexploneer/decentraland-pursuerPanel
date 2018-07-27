@@ -2,6 +2,8 @@
 
 Pursuer Panel is a flat plug and play panel that follow you until you are in certain areas or until you not pay a fee. The panel can be coated with advertising banners on any of four sides (simple textures at moment). This kind of panel can be helpful in free to play zones when premium users can avoid it with paying a fee or performing particular actions.
 
+```import { PursuerPanel } from 'src/PursuerPanel';```
+
 ```
 <PursuerPanel 
             defaultPos={{x: 5, y: 4.5, z: 7.5}}
